@@ -28,3 +28,4 @@ The fiction template includes these prompts:
 - who would like it?
 
 One can modify the script to add/remove prompts from the template to their own preferences. Simply change what is stored in nf_str for non-fiction and f_str for fiction.
+Hope this helps with book tracking!
